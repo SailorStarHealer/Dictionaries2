@@ -1,0 +1,15 @@
+/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/bin/Debug/net6.0/Dictionaries
+/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/bin/Debug/net6.0/Dictionaries.deps.json
+/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/bin/Debug/net6.0/Dictionaries.runtimeconfig.json
+/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/bin/Debug/net6.0/Dictionaries.dll
+/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/bin/Debug/net6.0/Dictionaries.pdb
+/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/obj/Debug/net6.0/Dictionaries.csproj.AssemblyReference.cache
+/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/obj/Debug/net6.0/Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/obj/Debug/net6.0/Dictionaries.AssemblyInfoInputs.cache
+/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/obj/Debug/net6.0/Dictionaries.AssemblyInfo.cs
+/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/obj/Debug/net6.0/Dictionaries.csproj.CoreCompileInputs.cache
+/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/obj/Debug/net6.0/Dictionaries.dll
+/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/obj/Debug/net6.0/refint/Dictionaries.dll
+/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/obj/Debug/net6.0/Dictionaries.pdb
+/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/obj/Debug/net6.0/Dictionaries.genruntimeconfig.cache
+/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/obj/Debug/net6.0/ref/Dictionaries.dll
