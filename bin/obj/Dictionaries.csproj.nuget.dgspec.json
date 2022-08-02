@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/Dictionaries.csproj": {}
+    "/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/bin/Dictionaries.csproj": {}
   },
   "projects": {
-    "/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/Dictionaries.csproj": {
+    "/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/bin/Dictionaries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/Dictionaries.csproj",
+        "projectUniqueName": "/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/bin/Dictionaries.csproj",
         "projectName": "Dictionaries",
-        "projectPath": "/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/Dictionaries.csproj",
+        "projectPath": "/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/bin/Dictionaries.csproj",
         "packagesPath": "/Users/sopwithcamel/.nuget/packages/",
-        "outputPath": "/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/obj/",
+        "outputPath": "/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/bin/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sopwithcamel/.nuget/NuGet/NuGet.Config"

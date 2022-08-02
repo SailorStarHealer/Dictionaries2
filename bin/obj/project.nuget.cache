@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EXPb5QqB05hdWAts4+8I9/ibC0KgkB++97zr91qJfPGMZFJZYps0T9B0PdQZp1cRFgspk/wZiMCWAoRV5SgwJA==",
+  "dgSpecHash": "8YFnB/R65h1CrZZ9RAA+42AkDu30TnB5JKg2fODN27m6BkFmkt4La6XLkvPD+iADXOPgtWnuaBSHSJHnM5r2ng==",
   "success": true,
-  "projectFilePath": "/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/Dictionaries.csproj",
+  "projectFilePath": "/Users/sopwithcamel/Projects/Dictionaries/Dictionaries/bin/Dictionaries.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
